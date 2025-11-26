@@ -79,4 +79,7 @@ Future Enhancements
 
 Credits
 
--- Developed by students of Java application development.
+-- Developed by
+    Syed Shadaan Rahman
+    Harsh
+    Riya
